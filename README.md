@@ -12,6 +12,13 @@ glob
 
 The SSIM loss is adapted from [pytorch-ssim](https://github.com/Po-Hsun-Su/pytorch-ssim/blob/master/pytorch_ssim/__init__.py).
 
+## Usage
+1. Clone this repo
+```
+https://github.com/Kunye-Shen/EMFINet.git
+```
+2. Download the results from [GoogleDrive](https://drive.google.com/file/d/1sICLcxUC70BOq0Hw0OjTq8ya1hsqXuZu/view?usp=sharing) or [baidu](https://pan.baidu.com/s/1Ho-n8q3913dDzdC7N6sntQ) extraction code: vvux.
+
 ## Architecture
 ![EMFINet architecture](figures/architecture.png)
 
