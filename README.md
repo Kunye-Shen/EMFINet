@@ -24,3 +24,14 @@ The SSIM loss is adapted from [pytorch-ssim](https://github.com/Po-Hsun-Su/pytor
 
 ### EORSSD
 ![EORSSD](figures/qual_EORSSD.png)
+
+## Citation
+'''
+@article{zhou2021edge,
+  title={Edge-Aware Multiscale Feature Integration Network for Salient Object Detection in Optical Remote Sensing Images},
+  author={Zhou, Xiaofei and Shen, Kunye and Liu, Zhi and Gong, Chen and Zhang, Jiyong and Yan, Chenggang},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2021},
+  publisher={IEEE}
+}
+'''
