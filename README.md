@@ -17,7 +17,10 @@ The SSIM loss is adapted from [pytorch-ssim](https://github.com/Po-Hsun-Su/pytor
 ```
 https://github.com/Kunye-Shen/EMFINet.git
 ```
-We also provide the predicted saliency maps ([GoogleDrive](https://drive.google.com/file/d/1HxFRfEwGWyiZ4N7V7JndH3YCQglX56c1/view?usp=sharing) or [baidu](https://pan.baidu.com/s/1gGD0_3jGTUdIbxJ_4h00Tw) extraction code: 9nje.)
+2. We also provide the predicted saliency maps ([GoogleDrive](https://drive.google.com/file/d/1HxFRfEwGWyiZ4N7V7JndH3YCQglX56c1/view?usp=sharing) or [baidu](https://pan.baidu.com/s/1gGD0_3jGTUdIbxJ_4h00Tw) extraction code: 9nje.). You can download directly through the above methods, or contact us through the following email.
+```
+KunyeShen@outlook.com
+```
 
 ## Architecture
 ![EMFINet architecture](figures/architecture.png)
